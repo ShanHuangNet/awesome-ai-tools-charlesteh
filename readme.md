@@ -60,6 +60,7 @@ Created by [Charles Teh](https://x.com/charlestehio), founder of Awesome AI Tool
 - [Fridge Leftovers AI](https://fridgeleftoversai.com/) - Transform leftovers into culinary delights
 - [Dom Frame](https://domframe.silentdirectivellc.com/?utm_source=awesome-ai-tools&utm_medium=resource-directory) - An AI texting coach: paste a conversation and get a read on it plus a reply you can actually send. Browser demo, also on iPhone.
 - [PlaceCall](https://voygr.tech/placecall/) - An AI agent that phones US businesses for you to book, ask or get a quote, then reports back with the outcome and transcript
+- [Meetini](https://meetini.net/) - Meeting and interview assistant for Apple Silicon Macs with local captions, transcripts, meeting notes, and metered AI assistance (paid).
 
 ## Marketing/Branding  
 - [Shakespeare](https://www.shakespeare.ai/) - Revolutionizing marketing with AI precision
